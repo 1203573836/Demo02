@@ -20,6 +20,7 @@ import java.util.Scanner;
 public class Dom01 {
         public static void main(String[] args) {
             //3
+            System.out.println(666);
             System.out.println("请输入成绩：");
             //5
             Scanner sc = new Scanner(System.in);
@@ -38,6 +39,7 @@ public class Dom01 {
                 System.out.println("输入错误！！！");//2
             }
             }
+
 
 }
 //10分
